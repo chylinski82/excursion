@@ -1,0 +1,32 @@
+html {
+    
+    background-color: black;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-size: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.excursion_remembers {
+    font-size: 21px;
+    color: gray;
+}
+
+#bottom {
+    text-align: right;
+}
+
+#link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+    position: relative;
+    bottom: 20px;
+    font-weight: bold;
+}
+
+.smaller {
+    font-weight: 300;
+    font-size: 42px;
+}
